@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "sass": "npx sass src/scss:dist/css",
-    "sass:watch": "npx sass --watch src/scss:dist/css --style=expanded"
+    "sass": "npx sass --watch"
   },
   "engines": {
     "node": ">=20 <21"
