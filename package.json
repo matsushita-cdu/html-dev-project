@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "sass": "npx sass src/scss:dist/css",
+    "sass:watch": "npx sass --watch src/scss:dist/css --style=expanded"
+  },
+  "engines": {
+    "node": ">=20 <21"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.96.0"
+  }
+}

@@ -1,0 +1,9 @@
+SCSS　コンパイル
+
+＜初回確認＞
+npx sass --watch src/scss:dist/css
+
+
+＜普段の作業＞
+npm run sass:watch
+package.jsonの中身を実行してるため、パスが変わる時は編集が必要
